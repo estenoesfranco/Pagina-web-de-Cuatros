@@ -1,0 +1,47 @@
+.container{
+   display: flex;
+   background-color: brown;
+   color: black;
+   align-items: center;
+   justify-content: center;
+}
+
+.Numero4{
+display:flex;
+align-items: center;
+justify-content: center;
+width: 444px;
+height: 444px;
+
+
+
+}
+.Numero44{
+   display:flex;
+   align-items: center;
+   justify-content: center;
+   width: 444px;
+   height: 444px;
+   background-color: aqua;
+   
+   
+   }
+
+   .Numero444{
+      display:flex;
+      align-items: center;
+      justify-content: center;
+      width: 444px;
+      height: 444px;
+      background-color: aquamarine;
+      
+      
+      }  
+
+      .cuatro3{
+display: flex;
+width: 900px;
+height: 400px;
+background-color: rgb(36, 184, 184);
+
+      }
