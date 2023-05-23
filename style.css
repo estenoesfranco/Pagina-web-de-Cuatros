@@ -2,46 +2,47 @@
    display: flex;
    background-color: brown;
    color: black;
-   align-items: center;
-   justify-content: center;
+   width: 300px;
+   height: 500px;
+   font-size: 50px;
 }
 
 .Numero4{
 display:flex;
-align-items: center;
-justify-content: center;
-width: 444px;
-height: 444px;
+width: 244px;
+height: 24px;
+
+font-size: 30px;
 
 
 
 }
 .Numero44{
    display:flex;
-   align-items: center;
-   justify-content: center;
-   width: 444px;
-   height: 444px;
+   width: 144px;
+   height: 144px;
    background-color: aqua;
    
+   font-size: 20px;
    
    }
 
    .Numero444{
       display:flex;
-      align-items: center;
-      justify-content: center;
-      width: 444px;
-      height: 444px;
+      width: 144px;
+      height: 144px;
       background-color: aquamarine;
-      
+     font-size: 20px; 
+     
+    
       
       }  
 
-      .cuatro3{
-display: flex;
-width: 900px;
-height: 400px;
+      .grid-cuatro3{
+display: grid;
+width: 144px;
+height: 444px;
 background-color: rgb(36, 184, 184);
 
+font-size: 20px;
       }

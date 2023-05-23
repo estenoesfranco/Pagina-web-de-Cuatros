@@ -1,6 +1,5 @@
-// Importa las dependencias necesarias y configura Express
-
-// Definir rutas existentes
+// Importa las dependencias necesarias y configura Express chiee
+// Define las rutas existentes
 
 app.post('/submit', (req, res) => {
     // Realiza la lógica de inicio de sesión
